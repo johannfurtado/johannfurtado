@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Novomundo.com**
 
-- 🌱 I’m currently learning **laravel, oracle db, vue.js and flutter.**
+- 🌱 I’m currently learning **laravel, vue.js and flutter.**
 
 - 💬 Ask me about **programming logic.**
 
