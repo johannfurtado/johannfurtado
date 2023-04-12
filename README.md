@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **laravel, vue.js and flutter.**
 
-- 💬 Ask me about **programming logic.**
+- 💬 Ask me about **programming logic.** and **flutter.**
 
 - 📫 How to reach me **johannfurtado@gmail.com**
 
