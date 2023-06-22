@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **laravel, react and react native.**
 
-- 💬 Ask me about **programming logic.** and **react.**
+- 💬 Ask me about **programming logic** and **react.**
 
 - 📫 How to reach me **johannfurtado@gmail.com**
 
