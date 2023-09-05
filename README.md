@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Johann Furtado</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Tradio Bank**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **laravel, react and react native.**
+- 🌱 I’m currently learning **laravel, react and flutter.**
 
-- 💬 Ask me about **programming logic** and **react.**
+- 💬 Ask me about **programming logic.**
 
-- 📫 How to reach me **johannfurtado@gmail.com**
+- 📫 How to reach me **johannfurtado@gmail.com** and **https://johannfurtado.github.io/johann.dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
