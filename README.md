@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johann Furtado</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **Zetti Tech**
+- 🔭 I’m currently working on **Growth Solution (Solidy Benefícios)**
 
-- 🌱 I’m currently learning **laravel, react and flutter.**
+- 🌱 I’m currently learning **laravel, react, node and flutter.**
 
 - 💬 Ask me about **programming logic.**
 
