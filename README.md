@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johann Furtado</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **Growth Solution (Solidy Benefícios)**
+- 🔭 I’m currently working on **InfoCensus (RH Multi)**
 
 - 🌱 I’m currently learning **laravel, react, node and flutter.**
 
