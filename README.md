@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **programming logic.**
 
-- 📫 How to reach me **johannfurtado@gmail.com** and **https://johannfurtado.github.io/johann.dev/**
+- 📫 How to reach me **johannfurtado@gmail.com** and **https://johann-dev.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
